@@ -16,7 +16,7 @@
   - Pompe 5V + Module relais
 
 ## 🛠️ Architecture Technique
-```mermaid
+mermaid
 flowchart TD
     A[Capteur] --> B(ESP32)
     B --> C{Firebase}
